@@ -2,5 +2,4 @@
 - I work mostly with client data, sales data, and seller data.
 - I work a lot with SQL and Python, and occasionally with VBA in Excel.
 - I'm interested in data analytics, because I enjoy turning data into easily understood and comprehensive insights for stakeholders and decision makers.
-- I’m currently learning as much as I can about Python.  I use Pandas, Xlwings, and other libraries, but next I want to learn PySpark to begin working with larger scale data in a distributed environment.
-- You can reach me at amfalotico1@gmail.com!
+- I’m currently learning as much as I can about PySpark to begin working with larger scale data in a distributed environment. I hope to have new PySpark projects here soon, in my Python repository!
